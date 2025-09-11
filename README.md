@@ -31,7 +31,7 @@ This project challenges you to uncover safe tiles while avoiding hidden mines, o
 
 3. **Run the game**
    ```bash
-   python minesweeper.py
+   python main.py
    ```
 
 ---
@@ -47,7 +47,7 @@ This project challenges you to uncover safe tiles while avoiding hidden mines, o
 ## Project Structure
 
 ```
-├── minesweeper.py        # Main game logic and interface
+├── main.py        # Main game logic and interface
 ├── assets/               # Images and resources (if any)
 ├── requirements.txt      # Dependencies
 └── README.md             # Project documentation
