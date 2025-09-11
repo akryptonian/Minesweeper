@@ -47,8 +47,9 @@ This project challenges you to uncover safe tiles while avoiding hidden mines, o
 ## Project Structure
 
 ```
-├── main.py        # Main game logic and interface
-├── assets/               # Images and resources (if any)
+├── main.py               # Main game logic and interface
+├── assets/               # Images and resources
+├── data/                 # Score ladder (if any)
 ├── requirements.txt      # Dependencies
 └── README.md             # Project documentation
 ```
